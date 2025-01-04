@@ -1,0 +1,290 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Эдиль",
+      "surname": "Мажитов",
+      "balance": 10000,
+      "email": "zusupovaerkinai@gmail.com",
+      "password": "EdilTopFront-EndDe1o_er"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "type": "pizza",
+      "title": "Чикен Сладкий Чили",
+      "price": 399,
+      "img": "https://i.imgur.com/fUlXn1T.png",
+      "quantity": 10,
+      "ingredients": [
+        "Курица",
+        "Лук",
+        "Перец Халапеньо",
+        "Сыр Моцарелла",
+        "Томатный соус"
+      ]
+    },
+    {
+      "id": 2,
+      "type": "pizza",
+      "title": "EASY PEASY огуречный расколбас",
+      "price": 549,
+      "img": "https://i.imgur.com/UX8Wg19.png",
+      "quantity": 10,
+      "ingredients": [
+        "Курица",
+        "Лук",
+        "Перец Халапеньо",
+        "Сыр Моцарелла",
+        "Томатный соус"
+      ]
+    },
+    {
+      "id": 3,
+      "type": "pizza",
+      "title": "EASY PEASY чикен а-ля хрен",
+      "price": 249,
+      "img": "https://i.imgur.com/7uAAp8l.png",
+      "quantity": 10,
+      "ingredients": [
+        "Огурцы маринованные",
+        "Пепперони",
+        "Сыр Моцарелла"
+      ]
+    },
+    {
+      "id": 4,
+      "type": "pizza",
+      "title": "4 сезона",
+      "price": 630,
+      "img": "https://i.imgur.com/FYKacGP.png",
+      "quantity": 10,
+      "ingredients": [
+        "Грибы",
+        "Ветчина",
+        "Артишоки",
+        "Оливки",
+        "Сыр Моцарелла",
+        "Томатный соус"
+      ]
+    },
+    {
+      "id": 5,
+      "type": "pizza",
+      "title": "4 сезона",
+      "price": 630,
+      "img": "https://i.imgur.com/FYKacGP.png",
+      "quantity": 10,
+      "ingredients": [
+        "Грибы",
+        "Ветчина",
+        "Артишоки",
+        "Оливки",
+        "Сыр Моцарелла",
+        "Томатный соус"
+      ]
+    },
+    {
+      "id": 6,
+      "type": "pizza",
+      "title": "EASY PEASY огуречный расколбас",
+      "price": 549,
+      "img": "https://i.imgur.com/UX8Wg19.png",
+      "quantity": 10,
+      "ingredients": [
+        "Курица",
+        "Лук",
+        "Перец Халапеньо",
+        "Сыр Моцарелла",
+        "Томатный соус"
+      ]
+    },
+    {
+      "id": 7,
+      "type": "pizza",
+      "title": "Чикен Сладкий Чили",
+      "price": 399,
+      "img": "https://i.imgur.com/fUlXn1T.png",
+      "quantity": 10,
+      "ingredients": [
+        "Курица",
+        "Лук",
+        "Перец Халапеньо",
+        "Сыр Моцарелла",
+        "Томатный соус"
+      ]
+    },
+    {
+      "id": 8,
+      "type": "pizza",
+      "title": "EASY PEASY чикен а-ля хрен",
+      "price": 249,
+      "img": "https://i.imgur.com/7uAAp8l.png",
+      "quantity": 10,
+      "ingredients": [
+        "Огурцы маринованные",
+        "Пепперони",
+        "Сыр Моцарелла"
+      ]
+    },
+    {
+      "id": 9,
+      "type": "drinks",
+      "title": "Adrenaline",
+      "price": 120,
+      "img": "https://i.imgur.com/fGdtHc5.png",
+      "quantity": 10
+    },
+    {
+      "id": 10,
+      "type": "drinks",
+      "title": "Pepsi без сахар",
+      "price": 60,
+      "img": "https://i.imgur.com/Fgk20Dx.png",
+      "quantity": 10
+    },
+    {
+      "id": 11,
+      "type": "drinks",
+      "title": "Pepsi",
+      "price": 60,
+      "img": "https://i.imgur.com/MLwtVA6.png",
+      "quantity": 10
+    },
+    {
+      "id": 12,
+      "type": "drinks",
+      "title": "Pepsi Mild cherry",
+      "price": 90,
+      "img": "https://imgur.com/532598b7-a615-4b5f-9ba5-0596887453a8",
+      "quantity": 10
+    },
+    {
+      "id": 13,
+      "type": "drinks",
+      "title": "Pepsi",
+      "price": 60,
+      "img": "https://i.imgur.com/P8cBaFL.png",
+      "quantity": 10
+    },
+    {
+      "id": 14,
+      "type": "drinks",
+      "title": "Mirinda",
+      "price": 40,
+      "img": "https://i.imgur.com/YeYPdbe.png",
+      "quantity": 10
+    },
+    {
+      "id": 15,
+      "type": "drinks",
+      "title": "Adrenaline",
+      "price": 120,
+      "img": "https://i.imgur.com/fGdtHc5.png",
+      "quantity": 10
+    },
+    {
+      "id": 16,
+      "type": "drinks",
+      "title": "Pepsi без сахар",
+      "price": 60,
+      "img": "https://i.imgur.com/Fgk20Dx.png",
+      "quantity": 10
+    },
+    {
+      "id": 17,
+      "type": "sause",
+      "title": "Сырный соус",
+      "price": 39,
+      "img": "https://i.imgur.com/O0ywqv3.png",
+      "quantity": 1000
+    },
+    {
+      "id": 18,
+      "type": "sause",
+      "title": "Барбфекю",
+      "price": 39,
+      "img": "https://i.imgur.com/RnlAbBw.png",
+      "quantity": 1000
+    },
+    {
+      "id": 19,
+      "type": "sause",
+      "title": "Ранч",
+      "price": 39,
+      "img": "https://i.imgur.com/GFG6lRx.png",
+      "quantity": 1000
+    },
+    {
+      "id": 20,
+      "type": "sause",
+      "title": "Сгущёнка",
+      "price": 39,
+      "img": "https://i.imgur.com/AhhdNfE.png",
+      "quantity": 1000
+    }
+  ],
+  "tickets": [
+    {
+      "id": 1,
+      "code": "PIZZA10",
+      "description": "Скидка 10% на все пиццы",
+      "discountPercentage": 10,
+      "minimumPurchaseAmount": 500,
+      "expirationDate": "2025-01-31"
+    },
+    {
+      "id": 2,
+      "code": "DRINKSFREE",
+      "description": "Бесплатный напиток при заказе на сумму от 700 рублей",
+      "discountPercentage": 100,
+      "minimumPurchaseAmount": 700,
+      "applicableTo": "drinks",
+      "expirationDate": "2025-02-15"
+    },
+    {
+      "id": 3,
+      "code": "SAUCE20",
+      "description": "Скидка 20% на все соусы",
+      "discountPercentage": 20,
+      "minimumPurchaseAmount": 300,
+      "applicableTo": "sause",
+      "expirationDate": "2025-03-01"
+    },
+    {
+      "id": 4,
+      "code": "FREESHIP",
+      "description": "Бесплатная доставка при заказе от 1000 рублей",
+      "discountPercentage": 100,
+      "minimumPurchaseAmount": 1000,
+      "applicableTo": "shipping",
+      "expirationDate": "2025-04-01"
+    },
+    {
+      "id": 5,
+      "code": "WELCOME15",
+      "description": "Скидка 15% на первый заказ",
+      "discountPercentage": 15,
+      "minimumPurchaseAmount": 0,
+      "expirationDate": "2025-06-01"
+    },
+    {
+      "id": 6,
+      "code": "NY2025",
+      "description": "Скидка 50% на все заказы от 500 рублей в честь Нового года",
+      "discountPercentage": 50,
+      "minimumPurchaseAmount": 500,
+      "expirationDate": "2025-02-01"
+    },
+    {
+      "id": 7,
+      "code": "MrEdil",
+      "description": "Скидка 20% на все заказы без срока действия",
+      "discountPercentage": 20,
+      "minimumPurchaseAmount": 0,
+      "expirationDate": null
+    }
+  ],
+  "orders": []
+}
