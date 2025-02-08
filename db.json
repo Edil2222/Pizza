@@ -1,9 +1,9 @@
 {
-  "user": [
+  "users": [
     {
       "id": 1,
-      "name": "Эдиль",
-      "surname": "Мажитов",
+      "firstName": "Эдиль",
+      "lastName": "Мажитов",
       "balance": 10000,
       "email": "zusupovaerkinai@gmail.com",
       "password": "EdilTopFront-EndDe1o_er"

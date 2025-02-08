@@ -1,10 +1,13 @@
 @use "fonts";
 @use "normalize";
 
-// base
+// base styles
 @use "base/variables";
 @use "base/base";
 
-// components
+// components styles
 @use "components/products";
 
+// pages styles
+
+@use "../pages/Register/Register";

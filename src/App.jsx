@@ -1,11 +1,12 @@
-import Products from "./components/Products/Products";
 import '../src/styles/App.scss';
+import {RouterProvider} from "react-router-dom";
+import router from "./routing/routing";
 
 function App() {
     return (
-            <div className="container bac">
-                <Products />
-            </div>
+            <>
+                <RouterProvider router={router}/>
+            </>
     );
 }
 

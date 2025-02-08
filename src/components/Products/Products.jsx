@@ -36,7 +36,7 @@ const Products = () => {
                                             ? `${product.ingredients.slice(0, 4).join(", ")}...`
                                             : product.ingredients?.length
                                                 ? product.ingredients.join(", ")
-                                                : "Нет ингредиентов"
+                                                : "товар без ингридиентов"
                                     }
 
                                 </p>
